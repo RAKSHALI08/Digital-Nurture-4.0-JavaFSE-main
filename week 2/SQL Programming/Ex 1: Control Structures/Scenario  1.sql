@@ -18,9 +18,7 @@ BEGIN
                              '. New Rate: ' || (cust.InterestRate - 1));
     END LOOP;
 END;
-
-
-
+/
 
 
 
